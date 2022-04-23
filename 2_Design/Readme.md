@@ -31,3 +31,4 @@ When light falls on the strip, the resistance decreases. In the absence of light
 usually smaller and are in the range 50mW to 0.5W. Thoughvery sensitive to light, the switching time is very high and hence cannot be used for highfrequency applications. They are used in chopper amplifiers. Light dependent resistorsare available as disc 0.5cm to 2.5cm. The resistance rises to several Mega ohms underdark conditions.The below figure shows that when the torch is turned on, the resistance of the LDRfalls, allowing current to pass through it 
 
 ![image](https://user-images.githubusercontent.com/102902624/164917665-b616f79e-0ca0-4391-a285-d0a78e5e3462.png)
+
