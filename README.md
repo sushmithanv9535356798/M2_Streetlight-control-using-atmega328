@@ -29,6 +29,9 @@ remain off. It is implemented using Microcontroller.
 
 Codiga
 
+![ ](https://api.codiga.io/project/33126/score/svg)
+
+![ ](https://api.codiga.io/project/33126/status/svg)
 
 Codacy
 
