@@ -33,8 +33,6 @@ Codiga
 
 ![ ](https://api.codiga.io/project/33126/status/svg)
 
-Codacy
-
 ### Badges
 |Build CI-Linux|Build CI-Windows|Analysis|Unit Testing |Git Inspector|
 |:--:|:--:|:--:|:--:|:--:|
